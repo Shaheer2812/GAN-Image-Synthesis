@@ -12,9 +12,3 @@ This project implements GANs, including a basic MNIST-based generator, to genera
 - PyTorch, Torchvision  
 - NumPy, Matplotlib  
 - tqdm (for progress bars)  
-
-## Setup & Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/GAN.git
-   cd GAN
